@@ -14,12 +14,7 @@ const increment = isTemp ? "isTemp++": "isTemp++";
 const decrement = isTemp2 ? "isTemp2--": "isTemp2--";
 //const brightness = isLit ? "lit": "dark";
 	return (
-	/*	IncrementItem =()=> {
-	this.setState({clicks: this.state.clicks + 1});
-},
-DecreaseItem =() =>{
-	this.setState({clicks:this.state.clicks - 1});
-},*/
+	
 		//to have on and off button 
 		<div className ="main">
 			<div className={`room ${isLit? "lit":"dark"} ${isDark? "dark":"lit"}`} class="light">
@@ -51,7 +46,4 @@ DecreaseItem =() =>{
 
 }
 
-function Reddit(){
-	const [posts, setPosts] =useState([]);
-}
 ReactDOM.render(<Room/>,document.querySelector('#root'));
