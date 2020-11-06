@@ -1,3 +1,12 @@
+# Tutorial with React 
+
+This project was initiated in order to learn and deepen the understanding with the term of state, as well as its functionality.  
+
+Through this exercise, get to know how to import and implement useState, as well as to connect the onClick handlers to set up the state. 
+
+
+********************************************************************************
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
