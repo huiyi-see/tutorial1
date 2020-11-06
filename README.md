@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tutorial with React 
 
 This project was initiated in order to learn and deepen the understanding with the term of state, as well as its functionality.  
@@ -7,6 +8,8 @@ Through this exercise, get to know how to import and implement useState, as well
 
 ********************************************************************************
 
+=======
+>>>>>>> 7b5dad308c1a32847b0fafa62fb8f9dcc93a042c
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
